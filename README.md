@@ -2,7 +2,7 @@
 ## About Me
 
 *14-years-old*
-*C++ developer • Low Level • Cybersecurity • C • Linux enthusiast*
+*C++ developer • Low Level • Cybersecurity • C developer • Linux enthusiast*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=neovim,cpp,c,arch" />
